@@ -21,7 +21,7 @@ Codificación en Python, usando clases, métodos y atributos, de los siguientes 
 ## Archivos
 
 - `actividad1_poo_Juan_Diego_Toro_Zuluaga_1022143298.ipynb` - código fuente de los cinco ejercicios
-- - `Actividad1_POO_JuanDiegoToroZuluaga.pdf` - Actividad 1 POO
+- `Actividad1_POO_JuanDiegoToroZuluaga.pdf` - Actividad 1 POO
 - `diagrama_ej04_familia.png` - diagrama de clases del ejercicio 4
 - `diagrama_ej05_pruebaescritorio.png` - diagrama de clases del ejercicio 5
 - `diagrama_ej12_empleado.png` - diagrama de clases del ejercicio 12
